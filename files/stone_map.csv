@@ -1,0 +1,100 @@
+Code,Original,Abbreviated,Category,centrality,degree,cluster_membership
+S01,Adam's apple,apple(.),small inani,0.15,6,1
+S02,adult,adult,human,0.02,4,2
+S03,ant,ant,small ani,0.64,11,3
+S04,axe,axe,tool,0.03,4,2
+S05,back (of body),back1(.),body part,0.02,2,1
+S06,"back of an animal ( cf. krô, kyô )",back2(.),body part,0.13,4,4
+S07,backward,backward,direction,0.1,6,5
+S08,baldhead,baldhead,body part,0.16,3,3
+S09,bark (V),bark(V),process,0.16,3,5
+S10,be strong,be strong,process,0.03,3,6
+S11,bear (fruit),bear(.),process,0.31,11,5
+S12,"boulder, huge rock",boulder(.),stone,0.06,8,6
+S13,bowl,bowl,tool,0.23,7,5
+S14,butterfly,butterfly,small ani,0.2,4,1
+S15,"cast of mind, line of thinking, implication",implication(.),miscellaneous,0.18,5,1
+S16,cave ,cave ,stone,0.1,7,6
+S17,charcoal,charcoal,small inani,0.11,3,3
+S18,"CL: rocks, stones",CL:stones(.),CL,0.59,13,5
+S19,CL:bowls,CL:bowls,CL,0.06,8,2
+S20,CL:eggs,CL:eggs,CL,0.48,10,5
+S21,CL:grain (of rice),CL:grain(.),CL,0.54,9,6
+S22,CL:measure of weight (=1 / 2 kilogram)/load on an animal's back,CL:measure(.),CL,0.02,3,2
+S23,CL:pile (of excrement),CL:pile(.),CL,0.04,6,2
+S24,cliff / rocky outcrop,cliff(.),stone,0.01,4,6
+S25,climb,climb,process,0,1,6
+S26,coal,coal,stone,0.6,11,3
+S27,coral,coral,stone,0.15,4,1
+S28,cypress,cypress,miscellaneous,0.34,8,4
+S29,day(time),day(time),miscellaneous,0.14,4,1
+S30,"egg, eggshell, testicle",egg(.),body part,0.09,3,7
+S31,eye,eye,body part,0.16,4,5
+S32,eyeball,eyeball,body part,0.02,2,1
+S33,finger,finger,body part,0.06,9,2
+S34,fish-net,fish-net,tool,0.18,4,3
+S35,flight of steps,flight(.),stone,0.62,9,3
+S36,fling / toss,fling(.),process,0.43,14,1
+S37,flint (to make fire),flint(.),stone,1,18,3
+S38,fold up (a quilt),fold_up(.),process,0.17,5,7
+S39,fortune / luck,fortune ,process,0.14,4,1
+S40,frog,frog,small ani,0.03,1,3
+S41,fruit,fruit,small inani,0.21,2,3
+S42,get / fetch,get(.),process,0,3,7
+S43,girl,girl,human,0.01,3,2
+S44,grandson,grandson,human,0.04,3,1
+S45,grasshopper,grasshopper,small ani,0,3,7
+S46,hail,hail,small inani,0.06,3,5
+S47,hammer,hammer,tool,0.23,4,3
+S48,head,head,body part,0.34,8,7
+S49,"heart, liver",heart(.),body part,0.02,3,2
+S50,hearth-god,hearth_god,human,0,3,6
+S51,hearth-stones,hearth_stones,stone,0,3,6
+S52,hoe up (weeds),hoe_up(.),process,0.03,4,2
+S53,hoetool,hoetool,tool,0.02,5,2
+S54,inside/in,inside(.),direction,0.02,1,5
+S55,jar (earthen),jar(.),tool,0.1,5,5
+S56,key,key,tool,0.18,4,5
+S57,kick; push off ( boat ),kick(.),process,0.36,6,4
+S58,kidney,kidney,body part,0.16,4,4
+S59,kitchen,kitchen,miscellaneous,0.36,7,5
+S60,knee,knee,body part,0.04,3,1
+S61,ladle (gourd) / dipper (wooden),ladle(.),tool,0.13,7,2
+S62,limestone,limestone,stone,0.02,1,1
+S63,lizard,lizard,small ani,0.02,2,6
+S64,locust,locust,small ani,0.02,4,7
+S65,"maggot, worm",maggot(.),small ani,0.05,3,5
+S66,man,man,human,0.27,3,3
+S67,marrow,marrow,body part,0,3,6
+S68,metal weight on steelyard,weight(.),tool,0.13,5,1
+S69,millstones,millstones,stone,0.13,5,1
+S70,money,money,small inani,0.11,4,7
+S71,multicolored / patterned (cloth),cloth(.),fabrics,0.02,6,6
+S72,neck,neck,body part,0.01,4,6
+S73,noon,noon,miscellaneous,0.42,7,3
+S74,owl,owl,small ani,0.26,7,7
+S75,pebble,pebble,stone,0.05,6,6
+S76,person w / pockmarked face,person(.),human,0.09,3,4
+S77,"pestle (small, stone)",pestle(.),tool,0.39,7,3
+S78,pillow,pillow,fabrics,0.38,13,1
+S79,pit/stone/rock,stone(.),stone,0.7,13,3
+S80,radish,radish,small inani,0.27,6,6
+S81,receive,receive,process,0,3,7
+S82,rice (unhusked),rice(.),small inani,0.16,8,6
+S83,sand,sand,small inani,0.48,7,3
+S84,sieve / sifter,sieve(.),tool,0.07,4,5
+S85,"smallpox, cowpox	","smallpox(.)	",small inani,0.09,3,4
+S86,sparrow (hawk),sparrow(.),small ani,0.25,4,3
+S87,steel (for flint),steel(.),tool,0.14,7,2
+S88,sun,sun,small inani,0.21,5,6
+S89,throat,throat,body part,0.01,7,6
+S90,throw / toss/hurl,throw(.),process,0.14,4,1
+S91,"thunder/thunderbolt	","thunder(.)	",miscellaneous,0.03,7,6
+S92,treasured object / treasure,treasure(.),small inani,0.22,7,4
+S93,trivet,trivet,tool,0.16,3,5
+S94,valley,valley,stone,0.14,4,1
+S95,wall(stone),wall(.),stone,0.35,6,3
+S96,whetstone,whetstone,stone,0.03,3,6
+S97,wool,wool,fabrics,0.3,5,3
+S98,wrap,wrap,process,0.1,4,7
+S99,yellow,yellow,process,0.14,2,3

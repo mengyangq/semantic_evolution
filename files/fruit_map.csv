@@ -1,0 +1,105 @@
+Code,Original,Abbreviated,Category,centrality,degree,cluster_membership
+F001,Adam's apple,apple(.),fruit,0.14,3,1
+F002,ankle,ankle,body part,0.71,12,1
+F003,arm,arm,body part,0.03,4,2
+F004,bear fruit,bear_fruit,process,0.32,4,3
+F005,bladder,bladder,body part,0.49,10,1
+F006,boat,boat,wood,0.01,2,4
+F007,branch/twig,branch(.),plant,0.02,4,2
+F008,brothers (as a group) (?),brothers,human,0.2,9,5
+F009,"buckwheat (tartary, hulless, duck wheat)",buckwheat(.),seed,0.24,4,1
+F010,bud,bud,plant,0.06,5,5
+F011,building,building,miscellaneous,0.03,3,2
+F012,bullet,bullet,small inani,0.33,6,3
+F013,button,button,small inani,0.45,8,4
+F014,carpenter,carpenter,human,0.07,5,2
+F015,charcoal,charcoal,small inani,0.41,10,1
+F016,chestnut,chestnut,fruit,0.47,6,4
+F017,"chilli, red pepper",pepper(.),fruit,0.13,3,3
+F018,CL: eggs,CL:eggs,CL,0.44,10,4
+F019,CL: grain (of rice),CL:grain(.),CL,0.13,4,1
+F020,CL: month's (work),CL:mw(.),CL,0.22,4,4
+F021,"CL: rocks, stones",CL:stones(.),CL,0.38,14,4
+F022,CL：bowls,CL:bowls,CL,0.1,5,4
+F023,CL：fingersbreadth,CL:fb(.),CL,0.09,3,3
+F024,claw / talon,claw(.),body part,0.25,4,1
+F025,coal / smouldering log,coal(.) ,small inani,0.12,3,1
+F026,comb,comb,small inani,0.08,5,5
+F027,crops,crops,plant,0.11,3,3
+F028,crupper-strap,crupper_strap,small inani,0.1,3,4
+F029,cucumber,cucumber,fruit,0.61,7,3
+F030,ear,ear,body part,0.13,7,5
+F031,eye,eye,body part,0.05,3,6
+F032,fabric (satin),fabric(.),small inani,0.02,2,5
+F033,fig/ (tree),fig(.),fruit,0.33,10,5
+F034,finger,finger,body part,0.13,5,4
+F035,fingernail,fingernail,body part,0.61,10,1
+F036,firewood,firewood,wood,0.14,11,2
+F037,fist,fist,body part,0.19,5,3
+F038,flower,flower,plant,0.07,4,2
+F039,foodstuff / grain,foodstuff(.),seed,0.18,5,1
+F040,forest,forest,plant,0.02,4,2
+F041,fruit,fruit,fruit,0.55,9,3
+F042,gall,gall,body part,0.01,2,4
+F043,god/deity,god(.),human,0.02,3,2
+F044,gold,gold,small inani,0.04,4,4
+F045,good,good,process,0.2,3,1
+F046,grape,grape,fruit,0.25,4,3
+F047,grass ,grass ,plant,0.09,3,5
+F048,grind (flour),grind(.),process,0.23,11,4
+F049,gruel,gruel,seed,0.07,5,2
+F050,hail,hail,small inani,0.25,3,3
+F051,"hear, listen, obey; perceive, test, feel (within oneself) (with Reflexive), understand to be case",hear(.),process,0.06,4,4
+F052,heart,heart,body part,0.08,4,6
+F053,host,host,human,0.3,8,1
+F054,key,key,small inani,0.14,4,3
+F055,kidney,kidney,body part,0.18,6,4
+F056,know; see,know(.),process,0.13,7,4
+F057,lime,lime,fruit,0.05,3,5
+F058,liver,liver,body part,0.24,8,1
+F059,lock (n),lock (N),small inani,0.07,3,4
+F060,locust,locust,small ani,0.06,5,6
+F061,maize / corn,corn(.),seed,0.06,3,2
+F062,mango,mango,fruit,0.15,5,5
+F063,melon / gourd,melon(.),fruit,0.38,7,3
+F064,mole,mole,body part,0.16,9,6
+F065,navel,navel,body part,0.14,8,6
+F066,nipple,nipple,body part,0.04,3,6
+F067,nit,nit,body part,0.06,5,6
+F068,"nut, seed (gen.); bead",seed(.),seed,0.22,3,3
+F069,olive/ (tree/wood),olive(.),fruit,0.24,3,3
+F070,pea / bean,bean(.),fruit,0.14,3,4
+F071,peach,peach,fruit,0.73,11,3
+F072,peanut,peanut,fruit,0.14,4,1
+F073,pear,pear,fruit,1,14,3
+F074,"pelvis, hip",pelvis(.),body part,0.11,3,5
+F075,persimmon,persimmon,fruit,0.44,8,3
+F076,pine/(tree),pine(.),plant,0.21,9,2
+F077,pit / stone,stone(.),small inani,0.2,3,1
+F078,plane (tool),plane(.),wood,0.05,7,2
+F079,plank / board,plank(.),wood,0.06,9,2
+F080,plant,plant,plant,0.25,9,5
+F081,"plantain, banana	","plantain(.)	",fruit,0.43,9,5
+F082,pomegranate,pomegranate,fruit,0.06,4,2
+F083,poor,poor,process,0.17,3,3
+F084,porcupine,porcupine,small ani,0.06,4,5
+F085,pumpkin,pumpkin,fruit,0.6,10,3
+F086,recognize,recognize,process,0.08,6,4
+F087,rice (unhusked/glutinous/paddy/plant/uncooked),rice(.),seed,0.11,3,1
+F088,"ripe, be (fruit)",ripe(.),process,0.04,3,2
+F089,sand,sand,small inani,0.1,3,4
+F090,sesame,sesame,seed,0.28,8,4
+F091,sorghum,sorghum,seed,0.25,5,3
+F092,soya bean,soya_bean,fruit,0.24,8,4
+F093,sugarcane,sugarcane,plant,0.21,11,2
+F094,tangerine,tangerine,fruit,0.61,9,3
+F095,testicle,testicle,body part,0.32,4,1
+F096,throat,throat,body part,0.09,3,1
+F097,tree,tree,plant,0.38,9,5
+F098,uvula,uvula,body part,0.03,3,4
+F099,vegetable,vegetable,plant,0.26,6,3
+F100,walnut,walnut,fruit,0.94,14,3
+F101,wedge,wedge,wood,0.08,4,2
+F102,whet (a knife),whet(.),process,0.15,6,4
+F103,wood / log,wood(.),wood,0.1,6,2
+F104,yoke,yoke,wood,0.16,9,2
