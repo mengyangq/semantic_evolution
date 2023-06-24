@@ -47,7 +47,7 @@ stone_cluster <- cluster_optimal(updated_stone_graph)
 # write.csv(stone_cluster$membership,'stone_cluster.csv')
 
 # network layout
-stone_layout <- layout_(updated_stone_graph, with_fr())
+stone_layout <- layout_(updated_stone_graph, with_graphopt())
 
 # number of unique categories
 stone_num_categories <- length(unique(stone_map$Category))
