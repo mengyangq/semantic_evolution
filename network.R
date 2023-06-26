@@ -34,6 +34,27 @@ barplot(relafreq_stone,
   ylim = range(pretty(c(0, relafreq_stone)))
 )
 
+# obtain the eigenvector centrality
+write.csv(centr_eigen(stone_graph),'stone_eigen.csv')
+
+# get CC and ASPL
+stone_cc <- transitivity(stone_graph, type = "global", vids = NULL, weights = NULL)
+stone_mean_distance <- mean_distance(stone_graph, unconnected = TRUE)
+
+# CC and ASPL of 1000 random network simulations
+stone_random_cc <- numeric(1000)
+stone_random_mean_distance <- numeric(1000)
+for (i in 1:1000) {
+  rn <- erdos.renyi.game(vcount(stone_graph), ecount(stone_graph), type = "gnm")
+  stone_random_cc[i] <- transitivity(rn, type = "global", vids = NULL, weights = NULL)
+  stone_random_mean_distance[i] <- mean_distance(rn, unconnected = TRUE)
+}
+
+# z-tests of CC and ASPL between stone network and random networks
+stone_cc_test <- z.test(stone_random_cc, sigma.x = sd(stone_random_cc), mu = stone_cc)
+stone_mean_distance_test <- z.test(stone_random_mean_distance, sigma.x = sd(stone_random_mean_distance), mu = stone_mean_distance)
+
+
 # change the graph/network back to data frame (vertices and edges) in order to append the additional info to the vertices, then recreate the same network
 stone_df <- igraph::as_data_frame(stone_graph, what = "both")
 
@@ -76,7 +97,7 @@ degree_scaled <- 1 + 9 * (stone_map$degree - min(stone_map$degree)) / (max(stone
 degree_ordered <- degree_scaled[order(as.numeric(names(V(updated_stone_graph))))]
 
 # create the network visualization
-pdf(file = "stone_0611.pdf", width = 16, height = 16)
+pdf(file = "stone.pdf", width = 16, height = 14)
 
 plot(updated_stone_graph, vertex.label = V(updated_stone_graph)$Abbreviated, vertex.color = named_stone_cluster_colors[stone_cluster_indices], vertex.label.color = named_stone_category_colors[stone_category_indices], vertex.label.cex = 1.25, vertex.size = degree_ordered, vertex.frame.color = NA, vertex.label.dist = 0.4, edge.width = .1, edge.curved = .1, layout = stone_layout)
 
@@ -84,9 +105,11 @@ plot(updated_stone_graph, vertex.label = V(updated_stone_graph)$Abbreviated, ver
 title("Stone", cex.main = 2)
 
 # add a legend
-legend(x = "bottomright", legend = names(named_stone_category_colors), fill = named_stone_category_colors, cex = 1.5, title = "Categories", box.lty = 0)
-legend(x = "bottomleft", legend = names(named_stone_cluster_colors), fill = named_stone_cluster_colors, cex = 1.5, title = "Clusters", box.lty = 0)
+legend(x = "topleft", legend = names(named_stone_category_colors), fill = named_stone_category_colors, cex = 1.5, title = "Categories", box.lty = 0)
+legend(x = "bottomright", legend = names(named_stone_cluster_colors), fill = named_stone_cluster_colors, cex = 1.5, title = "Clusters", box.lty = 0)
 
 dev.off()
+
+
 
 # same steps for other networks
