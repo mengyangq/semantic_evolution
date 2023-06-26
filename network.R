@@ -6,10 +6,10 @@ library(RColorBrewer)
 library(Polychrome)
 
 # read the binary matrix for 'stone'
-stone <- read.csv("files/stone.csv")
+stone <- read.csv("data/stone.csv")
 
 # read the detailed info for each concept/node in 'stone' (some of the info were appended after the network has been created, e.g., degree)
-stone_map <- read.csv("files/stone_map.csv")
+stone_map <- read.csv("data/stone_map.csv")
 
 # calculate cosine similarity for each pair of concpets in 'stone'
 stone_cosine <- cosine(stone)
