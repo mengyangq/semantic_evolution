@@ -7,3 +7,6 @@ The lexemes ‘fruit’ and ‘stone’ are known as the origins of the numeral 
 
 ## 'Stone' Colexification Network
 ![](output/stone.jpg)
+
+## Citation:
+Li, Y., & Qiu, M. (2023). A network analysis of the semantic evolution of ‘fruit’ and ‘stone’ in Tibeto-Burman languages. Retrieved from psyarxiv.com/dn75w
