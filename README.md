@@ -2,7 +2,7 @@
 
 If you find this work helpful in your research, please cite as:
 
-Li, Y., & Qiu, M. (2023). A network analysis of the semantic evolution of ‘fruit’ and ‘stone’ in Tibeto-Burman languages. Retrieved from [](psyarxiv.com/dn75w).
+Li, Y., & Qiu, M. (2023). A network analysis of the semantic evolution of ‘fruit’ and ‘stone’ in Tibeto-Burman languages. Retrieved from [psyarxiv.com/dn75w](psyarxiv.com/dn75w).
 
 ## Abstract
 
