@@ -1,100 +1,100 @@
-﻿Code,Category,Abbreviated,degree,centrality,cluster_membership
-S001,small inani,apple(.),6,0.118,1
-S002,human,adult,4,0.050,2
-S003,small ani,ant,11,0.543,3
-S004,tool,axe,4,0.049,2
-S005,body part,back1(.),2,0.015,1
-S006,body part,back2(.),4,0.105,4
-S007,direction,backward,5,0.208,5
-S008,body part,baldhead,3,0.125,4
-S009,process,bark (V),3,0.110,6
-S010,process,be strong,1,0.012,6
-S011,process,bear(.),3,0.102,2
-S012,stone,boulder(.),3,0.048,7
-S013,tool,bowl,7,0.294,5
-S014,small ani,butterfly,4,0.165,1
-S015,miscellaneous, implication(.),5,0.150,1
-S016,stone,cave ,3,0.050,6
-S017,small inani,charcoal,4,0.028,7
-S018,CL,CL:stones(.),8,0.335,6
-S019,CL,CL:bowls,4,0.038,2
-S020,CL,CL:eggs,7,0.340,6
-S021,CL,CL:grain(.),10,0.449,6
-S022,CL,CL:measure(.),3,0.034,2
-S023,CL,CL:pile(.),8,0.128,2
-S024,stone,cliff(.),9,0.181,7
-S025,process,climb,1,0.022,7
-S026,stone,coal,11,0.497,4
-S027,stone,coral,4,0.117,1
-S028,miscellaneous,cypress,8,0.291,4
-S029,miscellaneous,day(time),4,0.111,1
-S030,body part,egg(.),3,0.066,3
-S031,body part,eye,5,0.223,6
-S032,body part,eyeball,2,0.015,1
-S033,body part,finger,8,0.130,2
-S034,tool,fish-net,6,0.049,7
-S035,stone,flight(.),8,0.474,3
-S036,process,fling(.),14,0.368,1
-S037,stone,flint(.),24,1.000,8
-S038,process,fold up(.),4,0.134,3
-S039,process,fortune ,4,0.111,1
-S040,small ani,frog,1,0.033,8
-S041,small inani,fruit,2,0.149,5
-S042,process,get(.),4,0.016,5
-S043,human,girl,4,0.040,2
-S044,human,grandson,3,0.031,1
-S045,small ani,grasshopper,4,0.016,5
-S046,small inani,hail,4,0.226,8
-S047,tool,hammer,4,0.187,4
-S048,body part,head,8,0.263,3
-S049,body part,heart(.),3,0.028,2
-S050,human,hearth-god,3,0.004,7
-S051,stone,hearth-stones,4,0.009,7
-S052,process,hoe up(.),4,0.049,2
-S053,tool,hoetool,7,0.108,2
-S054,direction,inside(.),1,0.027,6
-S055,tool,jar(.),5,0.215,5
-S056,tool,key,9,0.378,2
-S057,process,kick(.),6,0.310,4
-S058,body part,kidney,4,0.128,4
-S059,miscellaneous,kitchen,5,0.261,2
-S060,body part,knee,3,0.031,1
-S061,tool,ladle(.),8,0.191,2
-S062,stone,limestone,1,0.018,1
-S063,small ani,lizard,2,0.151,8
-S064,small ani,locust,5,0.027,5
-S065,small ani,maggot(.),6,0.081,5
-S066,human,man,3,0.234,4
-S067,body part,marrow,3,0.004,7
-S068,tool,weight(.),5,0.105,1
-S069,stone,millstones,5,0.106,1
-S070,small inani,money,4,0.083,3
-S071,fabrics,cloth(.),11,0.248,7
-S072,body part,neck,4,0.070,7
-S073,miscellaneous,noon,8,0.416,8
-S074,small ani,owl,7,0.201,3
-S075,stone,pebble,4,0.054,7
-S076,human,person(.),3,0.074,4
-S077,tool,pestle(.),7,0.334,4
-S078,fabrics,pillow,13,0.311,1
-S079,stone,stone(.),11,0.568,4
-S080,small inani,radish,6,0.173,6
-S081,process,receive,3,0.007,5
-S082,small inani,rice(.),5,0.101,6
-S083,small inani,sand,9,0.522,8
-S084,tool,sieve(.),5,0.101,5
-S085,small inani,"smallpox(.)	",3,0.071,4
-S086,small ani,sparrow(.),5,0.270,8
-S087,tool,steel(.),11,0.456,2
-S088,small inani,sun,5,0.136,6
-S089,body part,throat,4,0.057,7
-S090,process,throw(.),4,0.111,1
-S091,miscellaneous,"thunder(.)	",7,0.088,7
-S092,small inani,treasure(.),7,0.181,4
-S093,tool,trivet,4,0.055,7
-S094,stone,valley,4,0.111,1
-S095,stone,wall(.),6,0.114,7
-S096,stone,whetstone,6,0.017,7
-S097,fabrics,wool,5,0.048,7
-S098,process,wrap,4,0.075,3
-S099,process,yellow,2,0.111,4
+﻿Code,Abbreviated,Category,Degree,Cluster
+s001,apple(.),small inani,6,1
+s002,adult,human,4,2
+s003,ant,small ani,11,3
+s004,axe,tool,4,2
+s005,back1(.),body part,3,4
+s006,back2(.),body part,3,4
+s007,backward,direction,5,5
+s008,baldhead,body part,3,4
+s009,bark (V),process,3,6
+s010,be strong,process,1,6
+s011,bear(.),process,3,2
+s012,boulder(.),stone,3,7
+s013,bowl,tool,7,5
+s014,butterfly,small ani,4,1
+s015, implication(.),miscellaneous,5,1
+s016,cave ,stone,3,6
+s017,charcoal,small inani,4,7
+s018,CL:stones(.),CL,8,6
+s019,CL:bowls,CL,4,2
+s020,CL:eggs,CL,7,6
+s021,CL:grain(.),CL,10,6
+s022,CL:measure(.),CL,3,2
+s023,CL:pile(.),CL,8,2
+s024,cliff(.),stone,9,7
+s025,climb,process,1,7
+s026,coal,stone,13,4
+s027,coral,stone,4,1
+s028,cypress,miscellaneous,7,4
+s029,day(time),miscellaneous,4,1
+s030,egg(.),body part,3,3
+s031,eye,body part,5,6
+s032,eyeball,body part,3,4
+s033,finger,body part,8,2
+s034,fish-net,tool,6,7
+s035,flight(.),stone,8,3
+s036,fling(.),process,14,1
+s037,flint(.),stone,24,8
+s038,fold up(.),process,4,3
+s039,fortune ,process,4,1
+s040,frog,small ani,1,8
+s041,fruit,small inani,2,5
+s042,get(.),process,4,5
+s043,girl,human,4,2
+s044,grandson,human,3,1
+s045,grasshopper,small ani,4,5
+s046,hail,small inani,4,8
+s047,hammer,tool,4,4
+s048,head,body part,8,3
+s049,heart(.),body part,3,2
+s050,hearth-god,human,3,7
+s051,hearth-stones,stone,4,7
+s052,hoe up(.),process,4,2
+s053,hoetool,tool,7,2
+s054,inside(.),direction,1,6
+s055,jar(.),tool,5,5
+s056,key,tool,10,2
+s057,kick(.),process,6,4
+s058,kidney,body part,4,4
+s059,kitchen,miscellaneous,5,2
+s060,knee,body part,3,1
+s061,ladle(.),tool,8,2
+s062,limestone,stone,1,1
+s063,lizard,small ani,2,8
+s064,locust,small ani,5,5
+s065,maggot(.),small ani,6,5
+s066,man,human,3,4
+s067,marrow,body part,3,7
+s068,weight(.),tool,3,1
+s069,millstones,stone,5,1
+s070,money,small inani,4,3
+s071,cloth(.),fabrics,11,7
+s072,neck,body part,4,7
+s073,noon,miscellaneous,8,8
+s074,owl,small ani,7,3
+s075,pebble,stone,4,7
+s076,person(.),human,3,4
+s077,pestle(.),tool,7,4
+s078,pillow,fabrics,13,1
+s079,stone(.),stone,13,4
+s080,radish,small inani,6,6
+s081,receive,process,3,5
+s082,rice(.),small inani,5,6
+s083,sand,small inani,9,8
+s084,sieve(.),tool,5,5
+s085,"smallpox(.)	",small inani,5,7
+s086,sparrow(.),small ani,5,8
+s087,steel(.),tool,11,2
+s088,sun,small inani,5,6
+s089,throat,body part,4,7
+s090,throw(.),process,4,1
+s091,"thunder(.)	",miscellaneous,7,7
+s092,treasure(.),small inani,6,4
+s093,trivet,tool,4,7
+s094,valley,stone,4,1
+s095,wall(.),stone,6,7
+s096,whetstone,stone,6,7
+s097,wool,fabrics,5,7
+s098,wrap,process,4,3
+s099,yellow,process,2,4

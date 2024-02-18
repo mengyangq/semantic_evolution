@@ -1,105 +1,105 @@
-﻿Code,Abbreviated,Category,degree,centrality,cluster_membership
-F001,apple(.),fruit,3,0.123,1
-F002,ankle,body part,12,0.680,1
-F003,arm,body part,4,0.022,2
-F004,bear fruit,process,4,0.295,3
-F005,bladder,body part,10,0.455,1
-F006,boat,wood,2,0.016,4
-F007,branch(.),plant,4,0.013,2
-F008,brothers,human,9,0.245,5
-F009,buckwheat(.),seed,4,0.222,1
-F010,bud,plant,5,0.078,5
-F011,building,miscellaneous,3,0.022,2
-F012,bullet,small inani,5,0.306,3
-F013,button,small inani,8,0.439,4
-F014,carpenter,human,5,0.043,2
-F015,charcoal,small inani,9,0.354,1
-F016,chestnut,fruit,6,0.455,4
-F017,pepper(.),fruit,3,0.127,3
-F018,CL: eggs,CL,11,0.442,4
-F019,CL: grain(.),CL,3,0.104,1
-F020,CL: mw(.),CL,4,0.216,4
-F021,CL:stones(.),CL,14,0.362,4
-F022,CL:bowls,CL,6,0.112,4
-F023,CL:fb(.),CL,3,0.088,4
-F024,claw(.),body part,4,0.229,1
-F025,coal(.) ,small inani,3,0.104,1
-F026,comb,small inani,5,0.102,5
-F027,crops,plant,3,0.100,3
-F028,crupper-strap,small inani,3,0.098,4
-F029,cucumber,fruit,10,0.669,5
-F030,ear,body part,8,0.170,5
-F031,eye,body part,3,0.043,6
-F032,fabric(.),small inani,2,0.023,5
-F033,fig(.),fruit,11,0.335,5
-F034,finger,body part,6,0.142,4
-F035,fingernail,body part,10,0.575,1
-F036,firewood,wood,11,0.091,2
-F037,fist,body part,5,0.179,3
-F038,flower,plant,4,0.052,2
-F039,foodstuff(.),seed,5,0.158,1
-F040,forest,plant,4,0.012,2
-F041,fruit,fruit,6,0.369,3
-F042,gall,body part,2,0.016,4
-F043,god(.),human,3,0.011,2
-F044,gold,small inani,4,0.035,6
-F045,good,process,3,0.189,1
-F046,grape,fruit,4,0.243,3
-F047,grass ,plant,3,0.098,5
-F048,grind(.),process,11,0.215,6
-F049,gruel,seed,5,0.045,2
-F050,hail,small inani,3,0.235,3
-F051,hear(.),process,4,0.056,6
-F052,heart,body part,4,0.071,6
-F053,host,human,7,0.254,1
-F054,key,small inani,3,0.120,3
-F055,kidney,body part,6,0.173,4
-F056,know(.),process,7,0.117,6
-F057,lime,fruit,3,0.062,5
-F058,liver,body part,8,0.207,1
-F059,lock (N),small inani,3,0.069,4
-F060,locust,small ani,5,0.056,6
-F061,corn(.),seed,3,0.042,2
-F062,mango,fruit,5,0.153,5
-F063,melon(.),fruit,7,0.361,3
-F064,mole,body part,9,0.152,6
-F065,navel,body part,8,0.132,6
-F066,nipple,body part,3,0.033,6
-F067,nit,body part,5,0.053,6
-F068,seed(.),seed,3,0.199,3
-F069,olive(.),fruit,3,0.212,3
-F070,bean(.),fruit,3,0.135,4
-F071,peach,fruit,12,0.742,3
-F072,peanut,fruit,4,0.126,1
-F073,pear,fruit,15,1.000,3
-F074,pelvis(.),body part,3,0.104,5
-F075,persimmon,fruit,8,0.419,3
-F076,pine(.),plant,9,0.157,2
-F077,stone(.),small inani,3,0.188,1
-F078,plane(.),wood,7,0.032,2
-F079,plank(.),wood,9,0.039,2
-F080,plant,plant,9,0.287,5
-F081,"plantain(.)	",fruit,8,0.379,5
-F082,pomegranate,fruit,4,0.040,2
-F083,poor,process,3,0.159,3
-F084,porcupine,small ani,4,0.071,5
-F085,pumpkin,fruit,10,0.577,3
-F086,recognize,process,6,0.076,6
-F087,rice(.),seed,7,0.457,3
-F088,ripe(.),process,3,0.026,2
-F089,sand,small inani,3,0.090,6
-F090,sesame,seed,8,0.263,4
-F091,sorghum,seed,4,0.223,3
-F092,soya bean,fruit,8,0.231,4
-F093,sugarcane,plant,10,0.123,2
-F094,tangerine,fruit,9,0.592,3
-F095,testicle,body part,4,0.303,1
-F096,throat,body part,3,0.075,1
-F097,tree,plant,4,0.234,5
-F098,uvula,body part,3,0.029,6
-F099,vegetable,plant,6,0.246,3
-F100,walnut,fruit,14,0.907,3
-F101,wedge,wood,4,0.048,2
-F102,whet(.),process,6,0.144,6
-F103,wood(.),wood,6,0.062,2
-F104,yoke,wood,9,0.119,2
+﻿Code,Abbreviated,Category,Degree,Cluster
+f001,apple(.),fruit,3,1
+f002,ankle,body part,12,1
+f003,arm,body part,4,2
+f004,bear fruit,process,4,3
+f005,bladder,body part,10,1
+f006,boat,wood,2,4
+f007,branch(.),plant,4,2
+f008,brothers,human,9,5
+f009,buckwheat(.),seed,4,1
+f010,bud,plant,5,5
+f011,building,miscellaneous,3,2
+f012,bullet,small inani,5,3
+f013,button,small inani,8,4
+f014,carpenter,human,5,2
+f015,charcoal,small inani,9,1
+f016,chestnut,fruit,6,4
+f017,pepper(.),fruit,3,3
+f018,CL: eggs,CL,11,4
+f019,CL: grain(.),CL,3,1
+f020,CL: mw(.),CL,4,4
+f021,CL:stones(.),CL,14,4
+f022,CL:bowls,CL,6,4
+f023,CL:fb(.),CL,3,4
+f024,claw(.),body part,4,1
+f025,coal(.) ,small inani,3,1
+f026,comb,small inani,5,5
+f027,crops,plant,3,3
+f028,crupper-strap,small inani,3,4
+f029,cucumber,fruit,10,5
+f030,ear,body part,8,5
+f031,eye,body part,3,6
+f032,fabric(.),small inani,2,5
+f033,fig(.),fruit,11,5
+f034,finger,body part,6,4
+f035,fingernail,body part,10,1
+f036,firewood,wood,11,2
+f037,fist,body part,5,3
+f038,flower,plant,4,2
+f039,foodstuff(.),seed,5,1
+f040,forest,plant,4,2
+f041,fruit,fruit,6,3
+f042,gall,body part,2,4
+f043,god(.),human,3,2
+f044,gold,small inani,4,6
+f045,good,process,3,1
+f046,grape,fruit,4,3
+f047,grass ,plant,3,5
+f048,grind(.),process,11,6
+f049,gruel,seed,5,2
+f050,hail,small inani,3,3
+f051,hear(.),process,4,6
+f052,heart,body part,4,6
+f053,host,human,7,1
+f054,key,small inani,3,3
+f055,kidney,body part,6,4
+f056,know(.),process,7,6
+f057,lime,fruit,3,5
+f058,liver,body part,8,1
+f059,lock (N),small inani,3,4
+f060,locust,small ani,5,6
+f061,corn(.),seed,3,2
+f062,mango,fruit,5,5
+f063,melon(.),fruit,7,3
+f064,mole,body part,9,6
+f065,navel,body part,8,6
+f066,nipple,body part,3,6
+f067,nit,body part,5,6
+f068,seed(.),seed,3,3
+f069,olive(.),fruit,3,3
+f070,bean(.),fruit,3,4
+f071,peach,fruit,12,3
+f072,peanut,fruit,4,1
+f073,pear,fruit,15,3
+f074,pelvis(.),body part,3,5
+f075,persimmon,fruit,8,3
+f076,pine(.),plant,9,2
+f077,stone(.),small inani,3,1
+f078,plane(.),wood,7,2
+f079,plank(.),wood,9,2
+f080,plant,plant,9,5
+f081,"plantain(.)	",fruit,8,5
+f082,pomegranate,fruit,4,2
+f083,poor,process,3,3
+f084,porcupine,small ani,4,5
+f085,pumpkin,fruit,10,3
+f086,recognize,process,6,6
+f087,rice(.),seed,7,3
+f088,ripe(.),process,3,2
+f089,sand,small inani,3,6
+f090,sesame,seed,8,4
+f091,sorghum,seed,4,3
+f092,soya bean,fruit,8,4
+f093,sugarcane,plant,10,2
+f094,tangerine,fruit,9,3
+f095,testicle,body part,4,1
+f096,throat,body part,3,1
+f097,tree,plant,4,5
+f098,uvula,body part,3,6
+f099,vegetable,plant,6,3
+f100,walnut,fruit,14,3
+f101,wedge,wood,4,2
+f102,whet(.),process,6,6
+f103,wood(.),wood,6,2
+f104,yoke,wood,9,2

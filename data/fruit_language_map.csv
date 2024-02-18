@@ -1,61 +1,53 @@
-Code,ID,Subgroup,STEDT proto-form,Cog ID,language,degree,centrality,cluster_membership
-L01,Hani_Luchun,Southern Loloish,1019,0,Hani_Lüchun,7,0.014275205,1
-L02,Hani_Mojiang,Southern Loloish,1019,0,Hani_Mojiang,7,0.028695255,1
-L03,Jinuo,Central Loloish,,0,Jinuo,4,0.008014568,1
-L04,Lahu_Lancang,Central Loloish,1019,0,Lahu_Lancang ,8,0.020727264,1
-L05,Namuyi,Qiangic,,0,Namuyi,5,0.287715616,2
-L06,Nusu_Central,Northern Loloish,1019,0,Nusu_Central,8,0.337924587,3
-L07,Pumi_Jiulong,Qiangic,1019,0,Pumi_Jiulong,4,0.231935217,4
-L08,Queyu_Xinlong,Qiangic,,0,Queyu_Xinlong,3,0.232502719,2
-L09,Yi_Nanhua,Northern Loloish,1019,0,Yi_Nanhua,4,0.00513431,1
-L10,Yi_Sani,Central Loloish,1019,0,Yi_Sani,3,0.003661356,1
-L11,Yi_Weishan,Northern Loloish,,0,Yi_Weishan,5,0.005961275,1
-L12,Yi_Xide,Northern Loloish,2658,0,Yi_Xide,3,0.186315553,4
-L13,Darang_Taraon,Deng,,320,Darang_Taraon,3,0.185452838,2
-L14,Tani_Bokar,Western Tani,1654,320,Tani_Bokar(博嘎尔珞巴),4,0.22398693,2
-L15,Byangsi,Tibeto-Kanauri,,383,Byangsi,28,1,2
-L16,Old_Tibetan,Tibetan,1019;2658;2071,817,Old_Tibetan,3,0.107411773,5
-L17,rGyalrong_Daofu,rGyalrong,2658,817,rGyalrong_Daofu,19,0.733092728,4
-L18,rGyalrong_Maerkang,rGyalrong,,817,rGyalrong_Maerkang (嘉绒),5,0.260871642,2
-L19,Tibetan_Batang,Tibetan,2658; N/A,817,Tibetan_Batang,3,0.170196815,2
-L20,Tibetan_Lhasa,Tibetan,2658; N/A,817,Tibetan_Lhasa,4,0.218402002,2
-L21,Tibetan_Xiahe,Tibetan,2658; N/A,817,Tibetan_Xiahe,3,0.238279478,3
-L22,Bai_Jianchuan,Bai,,1716,Bai_Jianchuan,8,0.355429336,3
-L23,Lyuzu,Qiangic,2658; 1019,1720,Lyuzu,4,0.20829354,4
-L24,Qiang_Mawo,Qiangic,1019,1720,Qiang_Mawo,3,0.09929571,3
-L25,Naxi,Naxi,,1721,Naxi,3,0.188953119,5
-L26,Tujia,Tujia,,1724,Tujia,3,0.189725426,4
-L27,Pumi_Lanping,Qiangic,,1725,Pumi_Lanping,3,0.171627069,2
-L28,Tangut1,rGyalrongic,,2498,Tangut,17,0.677984141,4
-L29,Khaling,Kiranti,,3504,Khaling,6,0.391798302,4
-L30,Achang_Longchuan,Burmish,,3525,Achang_Longchuan,5,0.103722598,3
-L31,Achang_Xiandao,Burmish,,3525,Achang(Xiandao),8,0.253717481,3
-L32,Bahing,Kiranti,1019,3525,Bahing,3,0.010164673,1
-L33,Bantawa,Kiranti,1019,3525,Bantawa,3,0.09265512,5
-L34,Bola_Luxi,Burmish,,3525,Bola(Luxi),4,0.162284053,6
-L35,Burmese_Rangoon,Burmish,2658; 1019,3525,Burmese (Rangoon),6,0.069033753,1
-L36,Dulong,Nungic,2658; 1019,3525,Dulong,3,0.188180932,2
-L37,Hakha_Chin,Kuki-Chin,,3525,Hakha_Chin,4,0.181797687,5
-L38,Hayu,Kiranti,1019,3525,Hayu,3,0.191222506,5
-L39,Jingpho,Jingpho,1019,3525,Jingpho,3,0.087593322,3
-L40,Kulung,Kiranti,1019,3525,Kulung,10,0.383385583,5
-L41,Lashi,Burmish,,3525,Lashi,9,0.467182838,2
-L42,Limbu,Kiranti,1019,3525,Limbu,4,0.20874858,6
-L43,Lisu,Central Loloish,2658; 1019,3525,Lisu,3,0.092327819,6
-L44,Lushai,unknown,1019; 2071,3525,Lushai,6,0.255127434,5
-L45,Maru,Burmish,1019,3525,Maru,3,0.040869185,3
-L46,Mikir_Karbi,Mikir,1019,3525,Mikir (Karbi),11,0.406891991,5
-L47,Motuo_Menba,Bodic,1019,3525,Motuo_Menba,3,0.111841453,5
-L48,Old_Burmese,Burmish,1019,3525,Old_Burmese,7,0.045376271,1
-L49,Rabha,Bodo-Garo,1019,3525,Rabha,9,0.411596513,2
-L50,Thulung,Kiranti,,3525,Thulung,7,0.304976354,6
-L51,Tibetan_Alike,Tibetan,1019,3525,Tibetan_Alike,7,0.347015517,2
-L52,Ukhrul,Tangkhul,1019,3525,Ukhrul,3,0.174160585,6
-L53,Yidu,Deng,,3525,Yidu,10,0.169679419,3
-L54,Zaiwa_Atsi,Burmish,1019,3525,Zaiwa (Atsi),7,0.081814429,3
-L55,Zhaba_Daofu_County,Qiangic,,3525,Zhaba_Daofu_County,7,0.335211182,6
-L56,Old_Chinese,Sinitic,,3629,Old_Chinese,4,0.258909353,5
-L57,Chepang,Kham-Magar-Chepang,,3818,Chepang,5,0.143296916,5
-L58,Garo,Bodo-Garo,1019,3944,Garo,3,0.18808287,2
-L59,Japhug,rGyalrongic,,4805,Japhug,4,0.237930613,4
-L60,Tangut2,rGyalrongic,,4805,Tangut,4,0.2130007,4
+﻿Code,Subgroup,STEDT,Cog_ID,Language,Degree,Cluster
+fl01,Central Loloish,1019,0,Lahu_Lancang ,5,1
+fl02,Northern Loloish,1019,0,Yi_Nanhua,4,2
+fl03,Kiranti,1019,3525,Bahing,3,3
+fl04,Southern Loloish,1019,0,Hani_Luchun,4,1
+fl05,Burmish,1019,3525,Old_Burmese,6,1
+fl06,Northern Loloish,N/A,0,Yi_Weishan,3,2
+fl07,Southern Loloish,1019,0,Hani_Mojiang,6,1
+fl08,Burmish,2658; 1019,3525,Burmese(Rangoon),6,1
+fl09,Central Loloish,1019,0,Yi_Sani,5,2
+fl10,Tibetan,1019;2658;2071,817,Old_Tibetan,5,4
+fl11,Central Loloish,N/A,0,Jinuo,3,1
+fl12,Naxi,N/A,1721,Naxi,4,3
+fl13,Kham-Magar-Chepang,N/A,3818,Chepang,6,3
+fl14,Kiranti,1019,3525,Bantawa,3,3
+fl15,Northern Loloish,2658,0,Yi_Xide,4,4
+fl16,Tibetan,2658; N/A,817,Tibetan_Batang,5,4
+fl17,Tibetan,2658; N/A,817,Tibetan_Lhasa,7,4
+fl18,Burmish,1019,3525,Zaiwa(Atsi),7,2
+fl19,Jingpho,1019,3525,Jingpho,4,1
+fl20,Tujia,N/A,1724,Tujia,3,3
+fl21,Central Loloish,2658; 1019,3525,Lisu,5,2
+fl22,Bodic,1019,3525,Motuo_Menba,4,3
+fl23,Tangkhul,1019,3525,Ukhrul,3,3
+fl24,Qiangic,2658; 1019,1720,Lyuzu,3,4
+fl25,Burmish,N/A,3525,Bola(Luxi),5,2
+fl26,Kuki-Chin,N/A,3525,Hakha_Chin,5,3
+fl27,Kiranti,1019,3525,Hayu,4,3
+fl28,Kiranti,1019,3525,Limbu,8,3
+fl29,Deng,N/A,3525,Yidu,8,1
+fl30,Bodo-Garo,1019,3944,Garo,3,5
+fl31,Qiangic,N/A,0,Queyu_Xinlong,4,5
+fl32,Qiangic,1019,1720,Qiang_Mawo,5,5
+fl33,Burmish,N/A,3525,Achang_Longchuan,6,2
+fl34,unknown,1019; 2071,3525,Lushai,4,3
+fl35,Burmish,1019,3525,Maru,4,2
+fl36,Deng,N/A,320,Darang_Taraon,3,5
+fl37,Western Tani,1654,320,Tani_Bokar,3,5
+fl38,Tibetan,2658; N/A,817,Tibetan_Xiahe,3,2
+fl39,Qiangic,N/A,1725,Pumi_Lanping,3,5
+fl40,Burmish,N/A,3525,Achang(Xiandao),13,1
+fl41,Nungic,2658; 1019,3525,Dulong,4,5
+fl42,rGyalrongic,N/A,4805,Tangut,3,3
+fl43,Northern Loloish,1019,0,Nusu_Central,14,2
+fl44,rGyalrong,N/A,817,rGyalrong_Maerkang,5,4
+fl45,Kiranti,1019,3525,Kulung,9,3
+fl46,Kiranti,N/A,3525,Thulung,5,3
+fl47,Qiangic,N/A,0,Namuyi,7,5
+fl48,Qiangic,1019,0,Pumi_Jiulong,7,5
+fl49,Bai,N/A,1716,Bai_Jianchuan,19,5
+fl50,Mikir,1019,3525,Mikir(Karbi),16,3
+fl51,Qiangic,N/A,3525,Zhaba_Daofu_County,14,3
+fl52,rGyalrongic,N/A,4805,Japhug,8,4
